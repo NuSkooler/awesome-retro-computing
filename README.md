@@ -32,3 +32,8 @@ FreeDOS is a complete, free, DOS-compatible operating system that you can use to
 * [DOS Haven](http://www.doshaven.eu/) — _"21st Century DOS Games — Modern DOS games, new games for DOS, DOS homebrew, newest DOS games"_
 
 
+
+## Multi-Platform Tools
+### Emulation & Collection Management
+* [n01d-timemachine](https://github.com/bad-antics/n01d-timemachine) — _"Unified classic computing launcher for retro emulation (C64, Amiga, ZX Spectrum, Atari, DOS, Apple II) with ROM management, artwork scraping, and RetroArch integration"_
+
