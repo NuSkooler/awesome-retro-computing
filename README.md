@@ -32,3 +32,10 @@ FreeDOS is a complete, free, DOS-compatible operating system that you can use to
 * [DOS Haven](http://www.doshaven.eu/) — _"21st Century DOS Games — Modern DOS games, new games for DOS, DOS homebrew, newest DOS games"_
 
 
+
+## Projects
+### Blockchain & Cryptocurrency
+* [RustChain](https://github.com/Scottcjn/Rustchain) — _"Blockchain that rewards retro/vintage hardware mining. PowerPC G4 Macs earn 2.5x multiplier via Proof of Antiquity consensus. Supports G3, G4, G5, POWER8, Pentium 4, and other vintage architectures."_
+
+### Development Tools
+* [rust-ppc-tiger](https://github.com/Scottcjn/rust-ppc-tiger) — _"Rust-to-PowerPC transpiler for Mac OS X Tiger (10.4) and Leopard (10.5). Compiles modern Rust source code into native PPC/AltiVec assembly, enabling new software development on vintage PowerPC Macs."_
