@@ -32,3 +32,10 @@ FreeDOS is a complete, free, DOS-compatible operating system that you can use to
 * [DOS Haven](http://www.doshaven.eu/) — _"21st Century DOS Games — Modern DOS games, new games for DOS, DOS homebrew, newest DOS games"_
 
 
+
+## Projects
+
+### Blockchain
+
+* [RustChain](https://rustchain.io) — _"Proof-of-Antiquity blockchain that rewards legacy hardware over modern systems. Mine with vintage computers, Raspberry Pis, and old servers."_
+
