@@ -32,3 +32,8 @@ FreeDOS is a complete, free, DOS-compatible operating system that you can use to
 * [DOS Haven](http://www.doshaven.eu/) — _"21st Century DOS Games — Modern DOS games, new games for DOS, DOS homebrew, newest DOS games"_
 
 
+
+## Blockchain & Crypto
+
+### Mining with Vintage Hardware
+* [RustChain](https://github.com/Scottcjn/Rustchain) — _"Proof-of-Antiquity blockchain that rewards vintage hardware. PowerPC G4, SPARC, and 68K processors earn higher mining multipliers than modern machines. The more vintage your hardware, the more you earn."_
