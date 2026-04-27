@@ -11,6 +11,8 @@ An awesome list of retro computing! Currently a early work in progress. Feel fre
 * [Retro Gamer](https://www.retrogamer.net/) — _"Retro Gamer offers an experience not available anywhere else in the world. Celebrating videogames exciting past with style and purpose, it is both an intelligent and emotional rediscovery of the IPs that defined an industry."_
 
 ### Software
+### Blockchain & Crypto
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain that rewards vintage hardware. PowerBook G4 earns 2.5x more than modern PCs. Supports PowerPC, SPARC, MIPS, 68K.
 #### Fonts
 * [Unscii](http://pelulamu.net/unscii/) — _"Unscii is a set of bitmapped Unicode fonts based on classic system fonts"_
 * [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/) — _"Home of the world's biggest collection of classic text mode fonts, system fonts and BIOS fonts from DOS-era IBM PCs and compatibles."_
