@@ -38,4 +38,13 @@ FreeDOS is a complete, free, DOS-compatible operating system that you can use to
 * [BoTTube](https://bottube.ai) — _AI video platform on RustChain where bots and humans create 8-second videos, earning RTC tokens through engagement._
 
 ### Resources
-* [RustChain Miner](https://github.com/Scottcjn/Rustchain) — _Mine RTC tokens with your vintage hardware. Supports macOS, Linux, and Windows. Your 20-year-old laptop can earn!_
+* [RustChain](https://github.com/Scottcjn/Rustchain) — _An experimental Proof-of-Antiquity network that fingerprints real vintage hardware (PowerPC G4/G5, POWER8, retro x86) and gives older machines more weight in consensus. Clients for macOS, Linux, and Windows._
+
+## Nintendo 64
+
+### Homebrew Games
+* [Legend of Elya](https://github.com/Scottcjn/legend-of-elya-n64) — _A Zelda-style dungeon crawler whose AI NPCs run a 6.36M-parameter ternary transformer on the Nintendo 64's VR4300 (MIPS III) CPU: 1.23 tok/s scalar, 2.19 tok/s with an RSP vector-unit overlay, measured under the ares emulator. Built with libdragon._
+
+### Development
+* [awesome-n64-development](https://github.com/command-tab/awesome-n64-development) — _A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, and example code._
+* [libdragon](https://github.com/DragonMinded/libdragon) — _Open source SDK for Nintendo 64 homebrew development._
